@@ -10,4 +10,4 @@ I used some images of the internet in PNG/JPG format to try to predict the dog b
 # About the project
 This is a project from the Udacity Data Science Capstone Project, where you have to solve a real problem, and i choose to make a CNN for a dog identification app.
 # Medium
-I posted my technical analysis on my project and published it on Medium, check it out: https://medium.com/@paraobentinho/dog-breed-convolutional-neural-network-a257c459c06d
+I posted my technical analysis on my project and published it on Medium, check it out: https://medium.com/@paraobentinho/dog-breed-convolutional-neural-network-a257c459c06d 
